@@ -1,4 +1,4 @@
-# ¡Hola, soy [Tu Nombre]! 👋
+# ¡Hola, soy Andre! 👋
 
 Soy una desarrolladora junior con una pasión por el **desarrollo web**. Mi enfoque está principalmente en el **front-end**, aunque también disfruto trabajando con el **back-end** cuando es necesario. Me encanta diseñar y aplicar estilos a mis proyectos, por lo que el **front-end** es donde me siento más cómoda y motivada.
 
